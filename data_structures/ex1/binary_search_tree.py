@@ -1,8 +1,8 @@
 class BinarySearchTree:
-  def __init__(self, value):
-    self.value = value
-    self.left = None
-    self.right = None
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
 
   def depth_first_for_each(self, cb):
    cb(self.value)
