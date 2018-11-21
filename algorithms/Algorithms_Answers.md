@@ -1,8 +1,8 @@
 Add your answers to the Algorithms exercises here.
 I.
 A. O(n)
-B. O(n^4)
-C. O(2n)
+B. O(n^3)
+C. O(n)
 
 II.
 1. First, drop egg from floor f/2. 
